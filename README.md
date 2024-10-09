@@ -92,6 +92,6 @@ Os dados foram coletados de fontes diversas, que incluem relatórios anuais de g
 - Bibliotecas: `pandas`, `matplotlib`, `seaborn`, `streamlit`
   
  # Link para Streamlit
-Visualize as análises diretamente no Streamlit através do link: [Streamlit](https://www.google.com)
+Visualize as análises diretamente no Streamlit através do link: [Streamlit](https://an-lise-de-dados-de-setores-de-tecnologia-globais-ym37jpyurf8z.streamlit.app/)
 # Link para Kaggle
 [Kaggle](https://www.kaggle.com)
